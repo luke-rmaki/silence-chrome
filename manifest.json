@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "version": "1.0.0",
   "name": "Silence Theme",
+  "description": "Dark theme for Chrome",
   "theme": {
     "colors": {
       "frame": [30, 36, 48],
